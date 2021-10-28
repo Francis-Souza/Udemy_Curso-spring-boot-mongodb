@@ -7,7 +7,7 @@
 
 <h2>DESCRIÇÃO DO PROJETO</h2>
 
-Desenvolvimento de um Pequeno Blog Sistema utilizando Spring Boot com MongoDB.
+Desenvolvimento de um Blog Sistema utilizando Spring Boot com MongoDB.
 
 
 
