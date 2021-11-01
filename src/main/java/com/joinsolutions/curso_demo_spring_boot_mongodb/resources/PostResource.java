@@ -16,8 +16,6 @@ public class PostResource {
 	
 	@Autowired
 	private PostService postService;
-
-	
 	
 	
 	@GetMapping(value = "/{id}")
